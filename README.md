@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my bachelor's diploma
+- 🌱 I’m currently learning android programming, image processing and computer graphics
+- 👯 I’m looking to collaborate on web applications
+- 🤔 I’m looking for help with machine learning and systems theory
 <!--
 **gallbotond/gallbotond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
