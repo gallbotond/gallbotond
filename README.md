@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my bachelor's diploma
+- 🌱 I’m currently learning about docker and neural networks
+- 👯 I’m looking to collaborate on web applications
 <!--
 **gallbotond/gallbotond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
